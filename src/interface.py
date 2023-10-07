@@ -4,7 +4,7 @@ from colors import *
 from questions import QUESTIONS
 from costumes import COSTUMES, Costume
 
-NAME = "HALLOWEEN3000"
+NAME = "HAUNT YOUR LOOK"
 
 def interfaceStart()->None:
     system("clear")
