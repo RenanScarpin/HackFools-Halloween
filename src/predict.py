@@ -9,5 +9,5 @@ def predict(answers: list[int]):
     if answers[1] == 3:
         return COSTUMES[3]
     
-    if answers[1] == 1:
+    if answers[1] == 4:
         return COSTUMES[1]
